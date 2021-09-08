@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-🎶 Some people call me the space cowboy, yeah 🎶 (actually nobody calls me that)
+🎶  Some people call me the space cowboy, yeah  🎶 (actually nobody calls me that)
 
 Name: Michael (or Μιχάλης in my native Greek or מי כאל in its original form in Hebrew)
 Pronouns: he / him

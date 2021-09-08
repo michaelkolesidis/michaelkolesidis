@@ -8,7 +8,7 @@
 😁 Least favourite language: Javascript (🤬 🤬  OK it's not that bad just a bit 🤯)<br>
 😁 Favourite performer: Ursula Martinez<br>
 😁 Nerd I admire: Dennis Ritchie 👑<br>
-😁 Philosopher: Husserl
+😁 Philosopher: Husserl<br
 😁 Sports I enjoy: 🏄🏼‍♂️  🏂🏼  🚴🏼‍♂️<br>
 😁 Favourite planet: 🌍<br>
 😁 Favourite artwork: 🌊<br>
@@ -18,7 +18,6 @@
 
 Crazy trivia: I don't drink ☕️ (And still I manage to write code somehow)<br><br>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&layout=compact)<br>
 
 - 🔭 I’m currently working on ... web developemnt.
 - 🌱 I’m currently (re)learning ... C.

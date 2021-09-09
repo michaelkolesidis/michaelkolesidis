@@ -8,7 +8,7 @@
 😁 Least favourite language: Javascript (🤬 🤬  OK it's not that bad just a bit 🤯)<br>
 😁 Favourite performer: Ursula Martinez<br>
 😁 Nerd I admire: Dennis Ritchie 👑<br>
-😁 Philosopher: Husserl<br
+😁 Philosopher: Husserl<br>
 😁 Sports I enjoy: 🏄🏼‍♂️  🏂🏼  🚴🏼‍♂️<br>
 😁 Favourite planet: 🌍<br>
 😁 Favourite artwork: 🌊<br>

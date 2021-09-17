@@ -4,7 +4,7 @@
 
 🐣 Name: Michael (or Μιχάλης in my native Greek or מי כאל in its original form in Hebrew)<br>
 🐣 Pronouns: he / him<br>
-🐣 Favourite Language: Spanish (and then C)<br>
+🐣 Favourite Language: Spanish (and C)<br>
 🐣 Least favourite language: JavaScript (🤬 🤬  OK it's not that bad just a bit 🤯)<br>
 🐣 Favourite performer: Ursula Martinez<br>
 🐣 Nerd I admire: Dennis Ritchie 👑<br>

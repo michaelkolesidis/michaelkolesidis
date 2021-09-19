@@ -18,7 +18,6 @@
 
 Crazy trivia: I don't drink ☕️ (And still I manage to write code somehow)<br><br>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&layout=compact)<br>
 
 - 🔭 I’m currently working on ... web developemnt.
 - 🌱 I’m currently (re)learning ... C.

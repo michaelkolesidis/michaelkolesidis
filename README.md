@@ -2,12 +2,17 @@
 <h3 align="center">Software Engineer | Web Developer</h3>
 <h4 align="center">🎶  Some people call me the space cowboy, yeah  🎶 (actually nobody calls me that)</h2>
 
+<br>
 
-<br>
-<br>
+<div align="center">
+
+<br >
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelkolesidis&theme=dark&show_icons=true)
+  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=dark&layout=compact)
+
+</div>
 
 <br>
 <br>

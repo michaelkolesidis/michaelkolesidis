@@ -1,4 +1,4 @@
-### Hello world 👋
+### Hi, I'm Michael 👋
 
 🎶  Some people call me the space cowboy, yeah  🎶 (actually nobody calls me that)
 
@@ -19,7 +19,7 @@
 
 Crazy trivia: I don't drink ☕️ (And still I manage to write code somehow)<br><br>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&layout=compact)<br>
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelkolesidis&theme=dark&show_icons=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=dark&layout=compact)<br>
 
 - 🔭 I’m currently working on ... web developemnt.
 - 🌱 I’m currently (re)learning ... C.

@@ -12,10 +12,10 @@
   
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=dark&layout=compact)
 
+<br>
+<br>
+   
 </div>
-
-<br>
-<br>
 
 🐣 Name: Michael (or Μιχάλης in my native Greek or מי כאל in its original form in Hebrew)<br>
 🐣 Pronouns: he / him<br>

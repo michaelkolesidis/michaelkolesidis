@@ -38,5 +38,5 @@ Crazy trivia: I don't drink ☕️ (And still I manage to write code somehow)<br
 - 🔭 I’m currently working on ... web developemnt.
 - 🌱 I’m currently (re)learning ... C.
 - 👯 I’m looking to collaborate on ... free software projects.
-- 🤔 I’m looking for help with ... literally anything. Just drop me a line and come to the rescue. I don't know what I'm doing 99% of the time.
+- 🤔 I’m looking for help with ... literally anything. Just drop me a line and come to the rescue. I don't know what I'm doing 99% of the time. Things just work magically.
 - 📫 How to reach me: michael.kolesidis (at) gmail.com

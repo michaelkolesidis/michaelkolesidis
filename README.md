@@ -21,7 +21,8 @@
 🐣 Pronouns: he / him<br>
 🐣 Favourite Language: Spanish (and C)<br>
 🐣 Love / hate Language: JavaScript (🤬 🤬  OK it's not that bad just a bit 🤯)<br>
-🐣 Technology I'm excited about: WebAssembly<br>
+🐣 Favourite framework: Three.js 
+🐣 Technologies I'm excited about: WebGPU, WebAssembly<br>
 🐣 Favourite performer: Ursula Martinez<br>
 🐣 Nerd I admire: Dennis Ritchie 👑<br>
 🐣 Philosopher: Husserl<br>

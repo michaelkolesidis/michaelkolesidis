@@ -16,7 +16,6 @@
 <br>
    
 </div>
-
 🐣 Name: Michael (or Μιχάλης in my native Greek or מי כאל in its original form in Hebrew)<br>
 🐣 Pronouns: he / him<br>
 🐣 Favourite Language: Spanish (and C)<br>
@@ -41,3 +40,8 @@ Crazy trivia: I don't drink ☕️ (And still I manage to write code somehow)<br
 - 👯 I’m looking to collaborate on ... free software projects.
 - 🤔 I’m looking for help with ... literally anything. Just drop me a line and come to the rescue. I don't know what I'm doing 99% of the time. Things just work magically.
 - 📫 How to reach me: michael.kolesidis (at) gmail.com
+
+<div align="center">
+<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 120px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
+</div>
+

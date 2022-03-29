@@ -12,18 +12,18 @@
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelkolesidis&theme=dark&show_icons=true&count_private=true)
   
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=dark&layout=compact&langs_count=10)
-
-
-
-   
 </div>
-
-
-
 
 <div align="center">
-<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 120px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
+  <img src="https://gnulinuxgreece.github.io/gnu_linux.svg" style="width: 280px;">
 </div>
+
+<br>
+                                                                   
+<div align="center">
+  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 120px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
+</div>
+
 <br>
 
 <div align="center">

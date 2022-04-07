@@ -14,15 +14,11 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=dark&layout=compact&langs_count=10)
 </div>
 
-<div align="center">
-  <img src="https://gnulinuxgreece.github.io/gnu_linux.svg" style="width: 280px;">
-</div>
 
-<br>
+
+
                                                                    
-<div align="center">
-  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 120px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
-</div>
+
 
 <br>
 
@@ -39,3 +35,15 @@
 
   [linkedin]: https://www.linkedin.com/in/michaelkolesidis/
   
+
+  [//]: # (Free Software)
+<div align="center">
+  <br>
+  <br>
+
+  <a href="https://www.gnu.org/philosophy/free-sw.html"><img src="https://gnulinuxgreece.github.io/gnu_linux.svg" style="width: 180px;"></a>
+</div>
+<br>                                                                
+<div align="center">
+  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 90px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
+</div>

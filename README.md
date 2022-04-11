@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Michael (he / him)</h1>
 
-<h3 align="center">Front-End Web Developer</h3>
+<h3 align="center">Front-End Web Developer</h3><br>
+
 <h4 align="center">🎶  Some people call me the <a href="https://www.youtube.com/watch?v=dV3AziKTBUo" target="_blank">space cowboy</a>, yeah  🎶 (actually nobody calls me that)</h2>
 
 <br>

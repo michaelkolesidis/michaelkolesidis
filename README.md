@@ -37,12 +37,12 @@
   [linkedin]: https://www.linkedin.com/in/michaelkolesidis/
   
 
-  [//]: # (Free Software)
+[//]: # (Free Software)
 <div align="center">
   <br>
   <br>
 
-  <a href="https://www.gnu.org/philosophy/free-sw.html"><img src="https://gnulinuxgreece.github.io/gnu_linux.svg" style="width: 180px;"></a>
+  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://github.com/michaelkolesidis/made-with-linux/blob/main/assets/michaelkolesidis/Made_with_Linux_silver_sand.svg" style="width: 180px;"></a>
 </div>
 <br>                                                                
 <div align="center">

@@ -42,7 +42,7 @@
   <br>
   <br>
 
-  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://github.com/michaelkolesidis/made-with-linux/blob/main/assets/michaelkolesidis/Made_with_Linux_silver_sand.svg" style="width: 200px;"></a>
+  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://github.com/michaelkolesidis/made-with-linux/blob/main/assets/michaelkolesidis/Made_with_Linux_silver_sand.svg" style="width: 250px;"></a>
 </div>
 <br>                                                                
 <div align="center">

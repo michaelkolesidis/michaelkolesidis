@@ -7,23 +7,6 @@
 <br>
 
 <div align="center">
-
-<br >
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelkolesidis&theme=dark&show_icons=true&count_private=true)
-  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=dark&layout=compact&langs_count=10)
-</div>
-
-
-
-
-                                                                   
-
-
-<br>
-
-<div align="center">
   
   <h3>Connect with me:</h3>
 
@@ -35,6 +18,30 @@
 
 
   [linkedin]: https://www.linkedin.com/in/michaelkolesidis/
+
+
+<div align="center">
+
+<br >
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelkolesidis&theme=dark&show_icons=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelkolesidis&theme=dark)](https://git.io/streak-stats)
+  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=dark&layout=compact&langs_count=10)
+</div>
+
+
+
+
+
+
+                                                                   
+
+
+<br>
+
+
   
 
 [//]: # (Free Software)

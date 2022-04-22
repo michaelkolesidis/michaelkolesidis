@@ -32,7 +32,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelkolesidis&theme=dark)](https://git.io/streak-stats)
   
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=dark&layout=compact&langs_count=10)
+
 </div>
                                                              
 <br>

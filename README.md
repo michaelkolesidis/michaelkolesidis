@@ -6,7 +6,7 @@
 
 <br>
 
-<p>I am a Front-End Web Developer with a diverse background in computer science, economics and the arts. I enjoy being creative and curious, learning and building new, exciting things every day. I create web experiences that are both functional and beautiful, always striving  for a balance between function and form.</p>
+<p>I am a Front-End Web Developer with a diverse background in computer science, economics and the arts. I enjoy being creative and curious, learning and building new, exciting things every day. I create web experiences that are both functional and beautiful. </p>
 
 <br>
 

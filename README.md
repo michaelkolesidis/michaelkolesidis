@@ -6,7 +6,7 @@
 
 <br>
 
-<p>I am a Front-End Web Developer wth a diverse background in computer science, economics and the arts. I enjoy being creative and inquisitive, learning and building new things every day. My passion is to create innovative, engaging experiences and to tell exciting stories using the latest technologies.</p>
+<p>I am a Front-End Web Developer with a diverse background in computer science, economics and the arts. I enjoy being creative and inquisitive, learning and building new things every day. I am passionate about solving problems, while creating innovative, engaging experiences using the appropriate tools and technologies.</p>
 
 <br>
 

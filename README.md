@@ -32,12 +32,26 @@
   
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&theme=graywhite&layout=compact&langs_count=10)
   
-</div>
+
+  
+<br>
+<br>
+
+
 
 [//]: # (Free Software)
 <div align="center">
-  
   <br>
-
-  <a href="https://github.com/michaelkolesidis/made-with-linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Made_with_Linux.png/240px-Made_with_Linux.png" height="180px"></a>
+  <br>
+  <h3>All of my code is released under</h3>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" height="100px" /></a>
+  <br>
+  <br>
+  <h3>All of my projects are</h3>
+  <a href="https://github.com/michaelkolesidis/made-with-linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Made_with_Linux.png/240px-Made_with_Linux.png"></a>
+</div>
+<br>                                                      
+<div align="center">
+  <h3>I like it when I see people</h3>
+  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 90px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
 </div>

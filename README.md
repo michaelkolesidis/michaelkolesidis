@@ -68,11 +68,11 @@
 <div align="center">
   <br>
   <br>
-  <h3>All of my code is released under</h3>
+  <h3>All my code is released under</h3>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" height="100px" /></a>
   <br>
   <br>
-  <h3>All of my projects are</h3>
+  <h3>All my projects are</h3>
   <a href="https://github.com/michaelkolesidis/made-with-linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Made_with_Linux.png/240px-Made_with_Linux.png"></a>
 </div>
 <br>                                                      

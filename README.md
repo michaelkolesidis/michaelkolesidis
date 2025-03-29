@@ -4,7 +4,7 @@
 </div>  
 
 
-The vast majority of my projects are free software (as in freedom), released under the GNU Affero General Public License. **If you use any of my code in your project, you must make your entire project's source code publicly available under the same license**. This applies whether you modify my code or use it as it is in your own project. This ensures that all modifications and derivative works remain free software, so that everyone can benefit. 
+The vast majority of my projects are free software (free as in freedom), released under the GNU Affero General Public License. **If you use any of my code in your project, you must make your entire project's source code publicly available under the same license**. This applies whether you modify my code or use it as it is in your own project. This ensures that all modifications and derivative works remain free software, so that everyone can benefit. 
 
 If you are hosting your source code to a platform like GitHub or GitLab, in order to comply with the AGPL-3.0 license you simply need to:
 

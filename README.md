@@ -9,6 +9,7 @@ If you are hosting your source code on a platform like GitHub or GitLab, to comp
 
 - **Make the repository public.**
 - **Include the full text of the license with your source code.**
+- **Ensure your source files contain a copyright and license notice.**
 - **If users interact with your software over a network, provide a clear way for them to obtain the source code.**
 
 If you are not willing to comply with these terms, you must refrain from using any of my code.

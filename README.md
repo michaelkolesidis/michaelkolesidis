@@ -18,4 +18,4 @@ If you are hosting your source code on a platform like GitHub or GitLab, to comp
 
 If you are not willing to comply with these terms, you must refrain from using any of my code.
 
-For full license terms and conditions, you can read the AGPL-3.0 at [**gnu.org/licenses/agpl-3.0.html**](gnu.org/licenses/agpl-3.0.html).
+For full license terms and conditions, you can read the AGPL-3.0 at [**gnu.org/licenses/agpl-3.0.html**](https://gnu.org/licenses/agpl-3.0.html).

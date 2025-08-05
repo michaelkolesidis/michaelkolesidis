@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stop_the_Genocide_in_Gaza.svg/250px-Stop_the_Genocide_in_Gaza.svg.png" /></br>  
   <img src="https://github-readme-stats.vercel.app/api?username=michaelkolesidis&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkolesidis&langs_count=10&hide_title=true&hide_border=true&layout=compact" />
   </br>  
   </br>  
@@ -20,4 +21,4 @@ If you are not willing to comply with these terms, you must refrain from using a
 
 For full license terms and conditions, you can read the AGPL-3.0 at [**gnu.org/licenses/agpl-3.0.html**](https://gnu.org/licenses/agpl-3.0.html).
 
-🏴‍☠️🏳️‍⚧️🏳️‍🌈✊🏿🏴
+🏴‍☠️🏳️‍⚧️🏳️‍🌈✊🏿🏴🍉

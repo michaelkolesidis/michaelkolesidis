@@ -21,4 +21,7 @@ If you are not willing to comply with these terms, you must refrain from using a
 
 For full license terms and conditions, you can read the AGPL-3.0 at [**gnu.org/licenses/agpl-3.0.html**](https://gnu.org/licenses/agpl-3.0.html).
 
-🏴‍☠️🏳️‍⚧️🏳️‍🌈✊🏿🏴🍉
+
+🏴‍☠️🏳️‍⚧️🏳️‍🌈✊🏿🏴🍉  
+  
+[![committers.top badge](https://user-badge.committers.top/greece/michaelkolesidis.svg)](https://user-badge.committers.top/greece/michaelkolesidis)  

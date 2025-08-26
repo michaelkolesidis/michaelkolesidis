@@ -23,5 +23,3 @@ For full license terms and conditions, you can read the AGPL-3.0 at [**gnu.org/l
 
 
 🏴‍☠️🏳️‍⚧️🏳️‍🌈✊🏿🏴🍉  
-  
-[![committers.top badge](https://user-badge.committers.top/greece/michaelkolesidis.svg)](https://user-badge.committers.top/greece/michaelkolesidis)  
